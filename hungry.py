@@ -1,3 +1,5 @@
+""" This some comments only"""
+
 hungry= input("are you hungry?")
 
 if hungry=="yes":
