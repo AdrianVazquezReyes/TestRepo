@@ -6,3 +6,4 @@ if hungry=="yes":
     print('from github')
 else:
     print('get back to work')
+    print('hello from github')
